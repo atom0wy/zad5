@@ -2,3 +2,4 @@ exluded_file.txt
 excluded
 *.bat
 excluded/*
+.idea
