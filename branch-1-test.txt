@@ -1,2 +1,3 @@
 aktualizuje info w pliku branch1
+To są zmiany wprowadzone w branch conflict 2 teraz to się zacznie!
 JEDNAK TERAZ Z BRANCH CONFLICT 1 HAHAHA
